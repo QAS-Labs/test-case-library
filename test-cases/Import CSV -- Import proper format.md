@@ -9,9 +9,10 @@ Tags:
 Test Steps:
 =============
 1. Upload a CSV in the correct format
+  * Should pass validation
+  * progress bar should be green
 2. Save uploaded test cases
-> Should pass validation, progress bar should be green
-> Test cases should be reflected in test case library
+  * Test cases should be reflected in the test case library
 
 
 Test Script:

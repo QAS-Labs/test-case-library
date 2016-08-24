@@ -6,15 +6,16 @@ Description
 =============
 > When a user is added to an organization, that user should show up immediate in the organizations list
 
-Componenents:
-Tags: 
+Componenents: Search, Filter
+
+Tags: kit-233
 
 Test Steps:
 =============
 1. Open up QAS-Labs organization
+  * See organization configuration page
 2. Add a new user to the organization that doesn't exist
-> See organization configuration page
-> New user should show up immediately
+  * New user should show up immediately
 
 
 Test Script:
@@ -30,7 +31,7 @@ Inputs: Test Run, Done
         Done();
       });
     
-      it('should Add a new user to the organization that doesn't exist', function(Done) {
+      it('should Add a new user to the organization that doesnt exist', function(Done) {
         expect(Inputs['Test Run']['2'].result).to.eql('New user should show up immediately');
         Done();
       });

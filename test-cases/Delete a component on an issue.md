@@ -3,8 +3,9 @@ Delete a component on an issue
 
 Id: undefined
 
-Componenents:
-Tags: 
+Componenents: UI
+
+Tags: kit-252, components
 
 Test Steps:
 =============

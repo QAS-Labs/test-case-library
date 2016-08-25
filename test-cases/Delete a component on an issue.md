@@ -9,9 +9,9 @@ Tags:
 Test Steps:
 =============
 1. Open Edit work item
+  * Show edit work item screen
 2. Remove a component from the work item
-> Show edit work item screen
-> Work Item updated with removed component
+  * Work Item updated with removed component
 
 
 Test Script:

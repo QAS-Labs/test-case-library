@@ -7,7 +7,8 @@ Description
 > If you save tags on a test case that's viewed in the TCL, it doesn't actually save.  If you do it from Activity > Work Item > Test case, it does
 
 Componenents:
-Tags: 
+
+Tags: organization, users, test-cases
 
 Test Steps:
 =============

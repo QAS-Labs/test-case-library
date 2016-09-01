@@ -13,8 +13,8 @@ Test Steps:
 =============
 1. Open a test case via TCL
 2. Save a change to tags
-> See test case
-> Tags should update
+* See test case
+* Tags should update
 
 
 Test Script:

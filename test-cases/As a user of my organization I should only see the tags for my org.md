@@ -6,7 +6,8 @@ Description
 =============
 > As a user for my org, I should only see tags for my specific org.
 
-Componenents:
+Componenents: API, UI
+
 Tags: organizations, users, 
 
 Test Steps:

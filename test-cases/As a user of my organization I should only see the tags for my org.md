@@ -13,8 +13,8 @@ Test Steps:
 =============
 1. Log into my organization
 2. View my organization settings
-> Should be logged in
-> Observe only the tags that belong to my org are present
+  * Should be logged in
+  * Observe only the tags that belong to my org are present
 
 
 Test Script:

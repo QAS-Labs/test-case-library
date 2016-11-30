@@ -14,9 +14,9 @@ Test Steps:
 1. Log into the UI as a super user
 2. Cilck on activate new feature button
 3. Click on new feature button
-* Super User Admin Page
-* New Feature Activated
-* New feature works
+ * Super User Admin Page
+ * New Feature Activated
+ * New feature works
 
 
 Test Script:

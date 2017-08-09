@@ -1,5 +1,5 @@
 Feature: Multiple site support
-Given 
+
   Background:
     Given a global administrator named "Greg"
     And a blog named "Greg's anti-tax rants"

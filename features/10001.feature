@@ -7,6 +7,7 @@ Feature: Multiple site support
     And a blog named "Expensive Therapy" owned by "Dr. Bill"
     And a guy named alpha dog
     And a guy named alpha dog
+    And a guy named alpha dog
     
   Scenario Outline: eating
     Given there are <start> cucumbers

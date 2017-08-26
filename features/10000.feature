@@ -1,4 +1,4 @@
-Feature: Some terse yet descriptive text of what is desired
+Feature: Some terse yet descriptive text of what is desire
   In order to realize a named business value
   As an explicit system actor
   I want to gain some beneficial outcome which furthers the goal

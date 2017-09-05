@@ -1,3 +1,3 @@
-Feature: Very New Feature for WorkItemThree
+Feature: Feature for WorkItemThree
   
-  Scenario: Very New Scenario for WorkItemThree
+  Scenario: Scenario for WorkItemThree

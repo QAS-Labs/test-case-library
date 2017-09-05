@@ -1,3 +1,3 @@
-Feature: Feature for WorkItemThree First
+Feature: Feature for WorkItemThree second
   
-  Scenario: Scenario for WorkItemThree First
+  Scenario: Scenario for WorkItemThree second

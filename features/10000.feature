@@ -4,7 +4,7 @@ Feature: Some terse yet descriptive text of what is desire
   I want to gain some beneficial outcome which furthers the goal
 
   Scenario: Some determinable business situation
-    Given some precondition
+    Given some precondition and stuff
       And some other precondition
      When some action by the actor
       And some other action

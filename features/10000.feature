@@ -11,5 +11,5 @@ Feature: Some terse yet descriptive text of what is desire
       And yet another action
      Then some testable outcome is achieved
       And something else we can check happens too
-      And something else we can check happens too
+      And something else we can check happens tfdsaoo
       Then some testable outcome is achieved

@@ -1,3 +1,6 @@
 Feature:
   Scenario:
-    Given I am home and I am there
+    Given Given I am home and I am there
+    Then I am not there
+    Then I must be somewhere
+    And Other than here

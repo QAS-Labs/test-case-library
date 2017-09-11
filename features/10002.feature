@@ -1,11 +1,11 @@
 Feature: feature for WorkItemThree, one
   
   Scenario: scenario for WorkItemThree, one
-    Given GivenOne
-    When WhenOne
-    Then ThenOne
+    Given This is the first step, for given
+    When This is the first step, for when
+    Then This is the first step, for then
     
   Scenario: scenario for WorkItemThree, two
-    Given GivenTwo
-    When WhenTwo
-    Then ThenTwo
+    Given This is the second step, for given
+    When This is the second step, for when
+    Then This is the second step, for then

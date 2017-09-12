@@ -9,6 +9,7 @@ Feature: feature for WorkItemThree, one
     
   @TagTwo @TagThree
   Scenario: scenario for WorkItemThree, two
+    Given @@@@
     Given This is the second step, for given
     When This is the second step, for when
     Then This is the second step, for then

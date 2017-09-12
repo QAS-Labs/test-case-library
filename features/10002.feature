@@ -1,4 +1,4 @@
-@FeatureTag
+@FeatureTag @TagThree
 Feature: feature for WorkItemThree, one
   
   @TagOne

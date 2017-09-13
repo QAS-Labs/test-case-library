@@ -1,4 +1,4 @@
-@mytag @anothertag @___tag @___tag @anothertag @mytag
+@mytag @anothertag @___tag @___tag @anothertag @mytag @tag
 Feature: fifofds
   @mytag @anothertag
   Scenario: Hello world

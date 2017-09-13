@@ -5,3 +5,4 @@ Feature: fifofds
     Given Given I am home and I am there
     Given we are there
     Given Given we are there
+    Given I am Given I am home and I am there

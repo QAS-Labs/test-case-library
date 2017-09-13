@@ -3,3 +3,4 @@ Feature: fifofds
   @mytag @anothertag
   Scenario: Hello world
     Given Given I am home and I am there
+    Given we are there

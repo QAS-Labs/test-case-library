@@ -15,8 +15,10 @@ Feature: Salar Moon Under The Stars While Watching Anime Scenes
     Then I must be aware
     Then I must be aware
     When I am asleep
+    When I am sleep
     And the lights are off
     And then I go back to sleep
+    When asleep I am asleep
     Then I will be around and I will not be home by 10:30 PM sharp, brother?
     Then I will be around and I will not be home by 10:30 PM sharp, brother?
     Given there

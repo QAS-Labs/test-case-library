@@ -20,8 +20,8 @@ Feature: Salar Moon Under The Stars While Watching Anime Scenes
     And then I go back to sleep
     When asleep I am asleep
     Then then I go back to sleep
-    Then I will be around and I will not be home by 10:30 PM sharp, brother?
-    Then I will be around and I will not be home by 10:30 PM sharp, brother?
+    Then I will be around and I will not be home by 10:30 
+    Then I will be around and I will not be home by 10:30
     Given there
     Given I am home and I am there
     Then I must be aware

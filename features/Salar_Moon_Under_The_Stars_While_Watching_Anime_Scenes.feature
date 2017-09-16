@@ -13,6 +13,11 @@ Feature: Salar Moon Under The Stars While Watching Anime Scenes
     Given I am home and I am there
     Then I can't probably I can't probably still be therestill be there
     Then I must be aware
+    Then I must be aware
+    When I am asleep
+    And the lights are off
+    And then I go back to sleep
+    Then I will be around and I will not be home by 10:30 PM sharp, brother?
     Then I will be around and I will not be home by 10:30 PM sharp, brother?
     Given there
     Given I am home and I am there

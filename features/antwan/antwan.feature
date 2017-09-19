@@ -1,2 +1,2 @@
-@newtag @tag
+@newtag @tag @newtag
 Feature: My new Antwan

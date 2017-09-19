@@ -5,3 +5,4 @@ Feature: My new Antwan
     And I am there
     And I am not even at my home
     And I am home
+    Then I must eat more chicken
